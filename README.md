@@ -17,6 +17,11 @@ Anthro Stage is sutable for a wide range of project types including:
       <li><a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki</a></li>
     </ul>
   </li>
+  <li>Robotics:
+    <ul>
+      <li><a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki</a></li>
+    </ul>
+  </li>
 </ul>
 
 # Documentation
