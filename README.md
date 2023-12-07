@@ -52,7 +52,9 @@ Anthro Stage is opensource however we reserve the right to offer paid none core/
   </li>
 </ul>
 
-# Change log
+# Change Log
+
+https://github.com/SnackFerret/Anthro-Stage/wiki/Change-Log
 
 # Licenses
 
