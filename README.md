@@ -7,7 +7,7 @@ Anthro Stage is a partially 3D printed stage used to film micro shows for FurSho
 Anthro Stage is sutable for a wide range of project types including:
 
 <ul>
-  <li>Stopmotion Capture:
+  <li>Stopmotion:
     <ul>
       <li><a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki</a></li>
     </ul>
