@@ -78,6 +78,7 @@ https://github.com/orgs/SnackFerret/people
   <li><a href="https://anthrostage.com">https://anthrostage.com</a></li>
   <li><a href="https://blog.snackferret.studio/search/label/Anthro%20Stage?&max-results=10">https://blog.snackferret.studio/search/label/Anthro%20Stage?&max-results=10</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLpvKqNMyOuXOA3ACx0Mz9kDstGQSxf7Ke">https://www.youtube.com/playlist?list=PLpvKqNMyOuXOA3ACx0Mz9kDstGQSxf7Ke</a></li>
+  <li><a href="https://www.flickr.com/photos/snackferret/albums">https://www.flickr.com/photos/snackferret/albums</a></li>
   <li><a href="https://en.wikifur.com/wiki/Anthro_Stage">https://en.wikifur.com/wiki/Anthro_Stage</a></li>
   <li><a href="https://www.linkedin.com/showcase/anthrostage/">https://www.linkedin.com/showcase/anthrostage/</a></li>
 </ul>
