@@ -12,6 +12,10 @@ Learn how to build Anthro Stage and then dive deeper into other and advanced mor
 
 <a href="[https://anthrostage.com/docs/">Anthro Stage Documentation</a>
 
+# 3D Files
+
+<a href="https://skfb.ly/oMXAJ">https://skfb.ly/oMXAJ</a>
+
 # Change log
 
 # License
@@ -35,10 +39,6 @@ Anthro Stage is free, open source, and GPL friendly. You can use it for commerci
     </ul>
   </li>
 </ul>
-
-# 3D Files
-
-<a href="https://skfb.ly/oMXAJ">https://skfb.ly/oMXAJ</a>
 
 # Team
 
