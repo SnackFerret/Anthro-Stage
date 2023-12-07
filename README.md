@@ -14,8 +14,21 @@ Learn how to build Anthro Stage and then dive deeper into other and advanced mor
 
 # 3D Files
 
-Anthro Stage Free 3D prints: <a href="https://skfb.ly/oMXAJ">https://skfb.ly/oMXAJ</a>
-Anthro Stage Paid 3D prints: <a href="https://#">https://#</a>
+
+Anthro Stage
+
+<ul>
+  <li>Anthro Stage — Free 3D prints:
+    <ul>
+      <li><a href="https://skfb.ly/oMXAJ">https://skfb.ly/oMXAJ</a></li>
+    </ul>
+  </li>
+  <li>Anthro Stage — Paid 3D prints:
+    <ul>
+      <li><a href="https://#">https://#</a>.</li>
+    </ul>
+  </li>
+</ul>
 
 # Change log
 
