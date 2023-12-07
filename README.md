@@ -17,7 +17,7 @@ Learn how to build Anthro Stage and dive deeper into advanced more topics by vis
 # 3D Files
 
 
-Anthro Stage
+Anthro Stage is opensource however we reserve the right to offer paid none core/critical 3D printable files as DLC to help fund the project.
 
 <ul>
   <li>Anthro Stage — Free 3D prints:
