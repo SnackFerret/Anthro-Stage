@@ -12,6 +12,8 @@ Learn how to build Anthro Stage and then dive deeper into other and advanced mor
 
 <a href="[https://anthrostage.com/docs/">Anthro Stage Documentation</a>
 
+# Blog Posts
+
 # 3D Files
 
 
