@@ -4,6 +4,21 @@
 
 Anthro Stage is a partially 3D printed stage used to film micro shows for FurShows, or your own projects and is still currently under development.
 
+Anthro Stage is sutable for a wide range of project types including:
+
+<ul>
+  <li>Stopmotion Capture:
+    <ul>
+      <li><a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki</a></li>
+    </ul>
+  </li>
+  <li>Claymation:
+    <ul>
+      <li><a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki</a>.</li>
+    </ul>
+  </li>
+</ul>
+
 # Documentation
 
 Learn how to build Anthro Stage and dive deeper into more advanced topics by visiting the wiki:
