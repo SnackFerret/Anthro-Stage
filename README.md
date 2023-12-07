@@ -59,3 +59,7 @@ Anthro Stage is free, open source, and GPL friendly. You can use it for commerci
 # Team
 
 https://github.com/orgs/SnackFerret/people
+
+# Links
+
+https://en.wikifur.com/wiki/Anthro_Stage
