@@ -9,22 +9,22 @@ Anthro Stage is designed and sutable for a wide range of project types including
 <ul>
   <li>Stopmotion:
     <ul>
-      <li><a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki</a></li>
+      <li><a href="https://github.com/SnackFerret/Anthro-Stage/wiki/Stopmotion">https://github.com/SnackFerret/Anthro-Stage/wiki/Stopmotion</a></li>
     </ul>
   </li>
   <li>Claymation:
     <ul>
-      <li><a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki</a></li>
+      <li><a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki/Claymation</a></li>
     </ul>
   </li>
   <li>Puppetry:
     <ul>
-      <li><a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki</a></li>
+      <li><a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki/Puppetry</a></li>
     </ul>
   </li>
   <li>Robotics:
     <ul>
-      <li><a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki</a></li>
+      <li><a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki/Robotics</a></li>
     </ul>
   </li>
 </ul>
