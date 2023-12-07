@@ -62,5 +62,10 @@ https://github.com/orgs/SnackFerret/people
 
 # Links
 
-https://anthrostage.com
-https://en.wikifur.com/wiki/Anthro_Stage
+<ul>
+  <li><a href="https://anthrostage.com">https://anthrostage.com</a></li>
+  <li><a href="https://en.wikifur.com/wiki/Anthro_Stage">https://en.wikifur.com/wiki/Anthro_Stage</a>.</li>
+</ul>
+
+
+
