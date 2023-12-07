@@ -25,8 +25,6 @@ Learn how to build Anthro Stage and dive deeper into more advanced topics by vis
 
 <a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki</a>
 
-# Blog Posts
-
 # 3D Files
 
 Anthro Stage is opensource however we reserve the right to offer paid none core/critical 3D printable files as DLC to help fund the project.
@@ -71,6 +69,8 @@ Anthro Stage is free, open source, and GPL friendly. You can use it for commerci
 # Team
 
 https://github.com/orgs/SnackFerret/people
+
+# Blog Posts
 
 # Links
 
