@@ -14,7 +14,7 @@ Anthro Stage is sutable for a wide range of project types including:
   </li>
   <li>Claymation:
     <ul>
-      <li><a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki</a>.</li>
+      <li><a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki</a></li>
     </ul>
   </li>
 </ul>
