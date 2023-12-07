@@ -2,7 +2,7 @@
 
 ## The little stage that can.
 
-Anthro Stage is a partially 3D printed stage used to film micro shows for FurShows, or your own projects and is currently still under development.
+Anthro Stage is a partially 3D printed stage used to film micro shows for FurShows, or your own projects and is still currently under development.
 
 # Documentation
 
