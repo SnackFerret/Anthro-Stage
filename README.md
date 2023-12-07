@@ -24,3 +24,7 @@ Code — MIT License
 All code in the Anthro Stage Free download, is MIT licensed. Attribution is required by MIT, SIL OLF, and CC BY licenses.
 
 https://sketchfab.com/fesothe/collections/anthro-stage-for-snackferret-studio-6e9de67d7ead46b88139f58943c9614c
+
+# Team
+
+https://github.com/orgs/SnackFerret/people
