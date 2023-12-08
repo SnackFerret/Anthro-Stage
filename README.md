@@ -1,3 +1,5 @@
+![SnackFerret Studio Logo.](https://cdn.furrys.org/github/snackferret/images/SnackFerret_Logo_Banner.png)
+
 # Anthro Stage - The little stage that can.
 
 **By @SnackFerret Studio**
