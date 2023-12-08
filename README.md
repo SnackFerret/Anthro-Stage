@@ -67,7 +67,7 @@ Anthro Stage is free, open source, and GPL friendly. You can use it for commerci
 <ul>
   <li>Logos — ? License
     <ul>
-      <li>You may  not use our logos in anyway that implies ownership of our logos, endorcement of your projects etc, logos are licenced as ? but this does not apply to all logos as some are available to be used for your projects, to determin which is the case please check our brand guidelines at <a href="[https://anthrostage.com/brand/">https://anthrostage.com/brand/</a>.</li>
+      <li>You may  not use our logos in anyway that implies ownership of our logos, endorcement of your projects etc, logos are licenced as ? but this does not apply to all logos as some are available to be used for your projects, to determin which is the case please check our brand guidelines at <a href="https://anthrostage.com/brand/">https://anthrostage.com/brand/</a>.</li>
     </ul>
   </li>
   <li>Code — MIT License
