@@ -60,6 +60,10 @@ Anthro Stage is built with a modular design
 
 <a href="https://github.com/SnackFerret/Anthro-Stage/wiki/Design-and-Features">https://github.com/SnackFerret/Anthro-Stage/wiki/Design-and-Features</a>
 
+# Adoption in Real-world Filmmaking
+
+<a href="https://www.fruitytails.com">https://www.fruitytails.com</a>
+
 # 3D Files
 
 Anthro Stage is opensource however we reserve the right to offer paid additional DLC 3D printable files to help fund the projects on going development. These are only forsale through Sketchfab if you see them available elsewhere they've been stolen or re-distributed without our permission. Please support this project and purchase fully licenced DLC through our Sketchfab store.
