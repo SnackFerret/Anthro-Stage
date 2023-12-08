@@ -7,14 +7,17 @@
 <!-- [START BADGES] -->
 
 <p align="center" dir="auto">
-  <a href="https://www.linkedin.com/showcase/anthrostage/" rel="nofollow">
+  <a href="https://www.linkedin.com/showcase/anthrostage/">
   <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0a66c2?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/snackferret" rel="nofollow">
+  <a href="https://instagram.com/snackferret">
   <img alt="Static Badge" src="https://img.shields.io/badge/instagram-405DE6?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com/playlist?list=PLpvKqNMyOuXOA3ACx0Mz9kDstGQSxf7Ke" rel="nofollow">
+  <a href="https://www.youtube.com/playlist?list=PLpvKqNMyOuXOA3ACx0Mz9kDstGQSxf7Ke">
   <img alt="Static Badge" src="https://img.shields.io/badge/youtube-FF0000?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="https://sketchfab.com/snackferret/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/sketchfab-0a66c2?&amp;style=for-the-badge&amp;logo=sketchfab&amp;logoColor=white"></a>
 </p>
 
 <!-- [END BADGES] -->
