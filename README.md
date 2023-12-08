@@ -1,6 +1,6 @@
-# Anthro Stage
+# Anthro Stage - The little stage that can.
 
-## The little stage that can.
+**By @SnackFerret Studio**
 
 Anthro Stage is a partially 3D printed 4ft wide stage used to film micro shows for <a href="https://github.com/FurShows">@FurShows</a>, or your own projects and is still currently under development.
 
