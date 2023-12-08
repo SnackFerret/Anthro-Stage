@@ -51,7 +51,7 @@ Anthro Stage is opensource however we reserve the right to offer paid none core/
   </li>
   <li>Anthro Stage — Paid 3D prints:
     <ul>
-      <li><a href="https://#">https://#</a>.</li>
+      <li><a href="https://sketchfab.com/snackferret/">https://sketchfab.com/snackferret/</a></li>
     </ul>
   </li>
 </ul>
