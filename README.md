@@ -54,6 +54,10 @@ Learn how to build Anthro Stage and dive deeper into more advanced topics by vis
 
 <a href="https://github.com/SnackFerret/Anthro-Stage/wiki">https://github.com/SnackFerret/Anthro-Stage/wiki</a>
 
+# Design and Features
+
+Anthro Stage was built with a modular design
+
 # 3D Files
 
 Anthro Stage is opensource however we reserve the right to offer paid additional DLC 3D printable files to help fund the projects on going development. These are only forsale through Sketchfab if you see them available elsewhere they've been stolen or re-distributed without our permission. Please support this project and purchase fully licenced DLC through our Sketchfab store.
