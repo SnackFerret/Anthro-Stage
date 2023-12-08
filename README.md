@@ -2,7 +2,7 @@
 
 # Anthro Stage - The little stage that can.
 
-**By @SnackFerret Studio**
+**By <a href="https://github.com/SnackFerret">@SnackFerret</a> Studio**
 
 # Overview
 
