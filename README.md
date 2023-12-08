@@ -94,7 +94,7 @@ https://github.com/SnackFerret/Anthro-Stage/wiki/Change-Log
 
 # Licenses
 
-Anthro Stage is free, open source, and GPL friendly. You can use it for commercial projects, open source projects, or really almost whatever you want with two minor exception regarding logos and paid DLC.
+Anthro Stage is free, open source, and GPL friendly. You can use it for commercial projects, open source projects, or really almost whatever you want with two minor exceptions regarding logos and paid DLC.
 
 <ul>
   <li>Logos — ? License
