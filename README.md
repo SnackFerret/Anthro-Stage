@@ -5,7 +5,7 @@
 **By <a href="https://github.com/SnackFerret">@SnackFerret</a> Studio**
 
 <!-- [START BADGES] -->
-
+&nbsp;&nbsp;
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/showcase/anthrostage/">
   <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0a66c2?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
