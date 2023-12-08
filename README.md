@@ -46,12 +46,12 @@ Anthro Stage is opensource however we reserve the right to offer paid none core/
 <ul>
   <li>Anthro Stage — Free 3D prints:
     <ul>
-      <li><a href="https://skfb.ly/oMXAJ">https://skfb.ly/oMXAJ</a></li>
+      <li><a href="https://sketchfab.com/snackferret/collections/anthro-stage-free-downloads-0cdfd6623a064f36b0fb48ef70d41341">https://sketchfab.com/snackferret/collections/anthro-stage-free-downloads</a></li>
     </ul>
   </li>
   <li>Anthro Stage — Paid 3D prints:
     <ul>
-      <li><a href="https://sketchfab.com/snackferret/">https://sketchfab.com/snackferret/</a></li>
+      <li><a href="https://sketchfab.com/snackferret/collections/anthro-stage-paid-downloads-c28bf847f3f14f44be0bcc38df446e24">https://sketchfab.com/snackferret/collections/anthro-stage-paid-downloads</a></li>
     </ul>
   </li>
 </ul>
