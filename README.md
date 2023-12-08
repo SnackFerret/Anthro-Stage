@@ -60,7 +60,7 @@ Anthro Stage is built with a modular design
 
 <a href="https://github.com/SnackFerret/Anthro-Stage/wiki/Design-and-Features">https://github.com/SnackFerret/Anthro-Stage/wiki/Design-and-Features</a>
 
-# Usage in Real-world Filmmaking
+# Usage in Filmmaking
 
 <a href="https://www.fruitytails.com">https://www.fruitytails.com</a>
 
