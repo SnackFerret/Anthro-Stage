@@ -75,9 +75,14 @@ Anthro Stage is free, open source, and GPL friendly. You can use it for commerci
       <li>All code in the Anthro Stage Free download, is MIT licensed. Attribution is required by MIT, SIL OLF, and CC BY licenses.</li>
     </ul>
   </li>
-  <li>3D prints — ? License
+  <li>3D prints (Free) — ? License
     <ul>
-      <li>Most 3D files in the Anthro Stage project are Free download, and are ? licensed. Attribution is required by the ? license.</li>
+      <li>Free 3D files in the Anthro Stage project licensed as ?. Attribution is required by the ? license.</li>
+    </ul>
+  </li>
+  <li>3D prints (Paid) — ? License
+    <ul>
+      <li>Paid 3D files in the Anthro Stage project are licensed as ?. Attribution is required by the ? license.</li>
     </ul>
   </li>
 </ul>
