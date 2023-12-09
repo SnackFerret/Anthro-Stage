@@ -74,6 +74,8 @@ If you would like to add your own usage of Anthro Stage or discover other creato
 
 Branch projects are links to alternative projects we've developed based upon Anthro Stage.
 
+<a href="https://github.com/SnackFerret/Anthro-Stage/wiki/Branch-Projects">https://github.com/SnackFerret/Anthro-Stage/wiki/Branch-Projects</a>
+
 # 3D Files
 
 Anthro Stage is opensource however we reserve the right to offer paid additional DLC 3D printable files to help fund the projects on going development. These are only forsale through Sketchfab if you see them available elsewhere they've been stolen or re-distributed without our permission. Please support this project and purchase fully licenced DLC through our Sketchfab store.
