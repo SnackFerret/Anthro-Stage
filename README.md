@@ -65,7 +65,7 @@ Anthro Stage is built with a modular design
 
 # Usage in Filmmaking
 
-Anthro Stage was primarly developed for filming Fruity Tails <a href="https://www.fruitytails.com">https://www.fruitytails.com</a> which is an umbrella brand name for multiple sub-shows showcasing diffrent styles.
+Anthro Stage was primarly developed for filming Fruity Tails <a href="https://www.fruitytails.com">https://www.fruitytails.com</a> which is an umbrella brand name for multiple sub-shows showcasing different styles.
 
 If you would like to add your own usage of Anthro Stage or discover other creators who've utilized Anthro Stage in their filmmaking and associated projects please view the wiki link.
 <a href="https://github.com/SnackFerret/Anthro-Stage/wiki/Usage-in-Filmmaking">https://github.com/SnackFerret/Anthro-Stage/wiki/Usage-in-Filmmaking</a>
