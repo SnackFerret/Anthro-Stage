@@ -72,7 +72,7 @@ If you would like to add your own usage of Anthro Stage or discover other creato
 
 # Branch Projects
 
-Branch projects are links to alternative projects we've developed based upon Anthro Stage.
+Branch projects are GitHub links to alternative sub-projects we've developed based upon typical Anthro Stage usage needs.
 
 <a href="https://github.com/SnackFerret/Anthro-Stage/wiki/Branch-Projects">https://github.com/SnackFerret/Anthro-Stage/wiki/Branch-Projects</a>
 
