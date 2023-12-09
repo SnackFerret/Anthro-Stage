@@ -124,6 +124,8 @@ Anthro Stage is free, open source, and GPL friendly. You can use it for commerci
   </li>
 </ul>
 
+Please read the all of our licences at <a href="https://github.com/SnackFerret/Anthro-Stage/blob/main/LICENSE%2Ctxt">https://github.com/SnackFerret/Anthro-Stage/blob/main/LICENSE%2Ctxt</a>
+
 # Team
 
 https://github.com/orgs/SnackFerret/people
