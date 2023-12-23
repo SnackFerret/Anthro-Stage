@@ -131,17 +131,17 @@ Please read all of our licences at <a href="https://raw.githubusercontent.com/Sn
 <ul>
   <li>
     <ul>
-      <li>"This project is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project and other open source software."</li>
+      <li>"This project is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project developed by Velivian Fesothe and other open source software."</li>
     </ul>
   </li>
   <li>
     <ul>
-      <li>"This product is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project and other open source software."</li>
+      <li>"This product is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project developed by Velivian Fesothe and other open source software."</li>
     </ul>
   </li>
   <li>
     <ul>
-      <li>"This ? is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project and other open source software."</li>
+      <li>"This ? is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project developed by Velivian Fesothe and other open source software."</li>
     </ul>
   </li>
 </ul>
