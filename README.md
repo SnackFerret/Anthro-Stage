@@ -129,17 +129,17 @@ Please read all of our licences at <a href="https://raw.githubusercontent.com/Sn
 # Attribution
 
 <ul>
-  <li>
+  <li> Is it a project?
     <ul>
       <li>"This project is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project developed by Velivian Fesothe and other open source software."</li>
     </ul>
   </li>
-  <li>
+  <li> Is it a Product?
     <ul>
       <li>"This product is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project developed by Velivian Fesothe and other open source software."</li>
     </ul>
   </li>
-  <li>
+  <li> Is it something else?
     <ul>
       <li>"This ? is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project developed by Velivian Fesothe and other open source software."</li>
     </ul>
