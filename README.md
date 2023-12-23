@@ -131,17 +131,17 @@ Please read all of our licences at <a href="https://raw.githubusercontent.com/Sn
 <ul>
   <li> Is it a project?
     <ul>
-      <li>"This project is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project developed by <a href="https://www.linkedin.com/in/velivian-fesothe/">Velivian Fesothe</a> and other open source software."</li>
+      <li>"This project is made possible by the <a href="https://snackferret.studio">SnackFerret Studio</a> open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project developed by <a href="https://www.linkedin.com/in/velivian-fesothe/">Velivian Fesothe</a> and other open source software."</li>
     </ul>
   </li>
   <li> Is it a Product?
     <ul>
-      <li>"This product is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project developed by <a href="https://www.linkedin.com/in/velivian-fesothe/">Velivian Fesothe</a> and other open source software."</li>
+      <li>"This product is made possible by the <a href="https://snackferret.studio">SnackFerret Studio</a> open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project developed by <a href="https://www.linkedin.com/in/velivian-fesothe/">Velivian Fesothe</a> and other open source software."</li>
     </ul>
   </li>
   <li> Is it something else?
     <ul>
-      <li>"This ? is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project developed by <a href="https://www.linkedin.com/in/velivian-fesothe/">Velivian Fesothe</a> and other open source software."</li>
+      <li>"This ? is made possible by the <a href="https://snackferret.studio">SnackFerret Studio</a> open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project developed by <a href="https://www.linkedin.com/in/velivian-fesothe/">Velivian Fesothe</a> and other open source software."</li>
     </ul>
   </li>
 </ul>
