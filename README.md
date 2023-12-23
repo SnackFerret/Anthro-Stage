@@ -128,9 +128,23 @@ Please read all of our licences at <a href="https://raw.githubusercontent.com/Sn
 
 # Attribution
 
-"This project is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project and other open source software."
-"This product is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project and other open source software."
-"This ? is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project and other open source software."
+<ul>
+  <li>Stopmotion:
+    <ul>
+      <li>"This project is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project and other open source software."</li>
+    </ul>
+  </li>
+  <li>Claymation:
+    <ul>
+      <li>"This product is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project and other open source software."</li>
+    </ul>
+  </li>
+  <li>Puppetry:
+    <ul>
+      <li>"This ? is made possible by the SnackFerret Studio open source <a href="https://github.com/SnackFerret/Anthro-Stage">Anthro Stage</a> project and other open source software."</li>
+    </ul>
+  </li>
+</ul>
 
 # Team
 
