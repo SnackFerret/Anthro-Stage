@@ -157,7 +157,7 @@ https://github.com/orgs/SnackFerret/people
 <ul>
   <li><a href="https://anthrostage.com">https://anthrostage.com</a></li>
   <li><a href="https://sketchfab.com/snackferret/">https://sketchfab.com/snackferret/</a></li>
-  <li><a href="https://www.anthroinfo.com/p/anthro-stage">https://www.anthroinfo.com/p/anthro-stage</a></li>
+  <li><a href="https://www.anthroinfo.com/p/anthro-stage">https://www.anthroinfo.com/p/anthro-stage.html</a></li>
   <li><a href="https://blog.snackferret.studio/search/label/Anthro%20Stage?&max-results=10">https://blog.snackferret.studio/search/label/Anthro%20Stage?&max-results=10</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLpvKqNMyOuXOA3ACx0Mz9kDstGQSxf7Ke">https://www.youtube.com/playlist?list=PLpvKqNMyOuXOA3ACx0Mz9kDstGQSxf7Ke</a></li>
   <li><a href="https://www.flickr.com/photos/snackferret/albums">https://www.flickr.com/photos/snackferret/albums</a></li>
