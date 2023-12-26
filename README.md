@@ -156,7 +156,7 @@ https://github.com/orgs/SnackFerret/people
 
 <ul>
   <li><a href="https://anthrostage.com">https://anthrostage.com</a></li>
-  <li><a href="https://github.com/SnackFerret/Info/wiki/Brand-Guidelines">https://github.com/SnackFerret/Info/wiki/Brand-Guidelines</a></li>
+  <li><a href="https://github.com/SnackFerret/Docs/Wiki/Brand-Guidelines">https://github.com/SnackFerret/Docs/wiki/Brand-Guidelines</a></li>
   <li><a href="https://files.snackferret.com/anthro-stage/">https://files.snackferret.com/anthro-stage/</a></li>
   <li><a href="https://sketchfab.com/snackferret/">https://sketchfab.com/snackferret/</a></li>
   <li><a href="https://www.anthroinfo.com/p/anthro-stage.html">https://www.anthroinfo.com/p/anthro-stage.html</a></li>
